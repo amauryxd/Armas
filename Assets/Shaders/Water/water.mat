@@ -117,8 +117,8 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 0.1879226, g: 0.5316074, b: 0.9716981, a: 0.8666667}
+    - _Color: {r: 0.18792254, g: 0.5316074, b: 0.9716981, a: 0.89411765}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Scroll_Velocity: {r: 1, g: 1, b: 0, a: 0}
+    - _Scroll_Velocity: {r: 0.1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
